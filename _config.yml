@@ -6,9 +6,9 @@ color:
   saturation: 0.8956997087225318
   rhythmicContrast: 0.4662378223147243
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#2C2E2D'
+    - '#E5EDFA'
+    - '#4B5161'
+    - '#B3C8E3'
+    - '#7786A4'
 name: mopradk
