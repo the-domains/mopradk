@@ -1,0 +1,14 @@
+layout_spectrum: 0.7926268565934151
+typography_spectrum: 0.03819119301624596
+color:
+  brandStrength: 0.5582189951092005
+  lightness: 0.5779146307613701
+  saturation: 0.8956997087225318
+  rhythmicContrast: 0.4662378223147243
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: mopradk
