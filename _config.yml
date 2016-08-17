@@ -1,4 +1,6 @@
 typography_spectrum: 0.03819119301624596
+content_rating:
+  adult: false
 color:
   brandStrength: 0.5582189951092005
   lightness: 0.5779146307613701
@@ -11,6 +13,13 @@ color:
     - '#B3C8E3'
     - '#7786A4'
 layout_spectrum: 0.7926268565934151
+author:
+  name: Morten
+  email: mortenprads@gmail.com
+  url: 'http://mopra.dk'
+logo: null
 name: mopradk
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a4a85dd-26fd-4fb4-b51b-b6c84258b59e.png
 title: mopradk
 description: Digital Conceptdeveloper
