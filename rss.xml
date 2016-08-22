@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[mopradk]]></title>
+        <description><![CDATA[mopradk]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 22 Aug 2016 15:09:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[shirt teaser shop final]]></title>
+            <description><![CDATA[<article><h1>shirt teaser shop final</h1><p>Uploaded by Morten Pradsgaard on 2016-07-08.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/16f51a50554631908ea0e77d3bbb633e/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FzaTOeCMortE%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://youtu.be/zaTOeCMortE</link>
+            <guid isPermaLink="false">109dec4e-a6e1-4484-a8b9-de00b031cc62</guid>
+            <pubDate>Mon, 22 Aug 2016 15:09:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
