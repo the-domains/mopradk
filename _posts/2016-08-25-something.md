@@ -1,17 +1,17 @@
 ---
-description: something
-dateModified: '2016-08-25T18:22:35.611Z'
-datePublished: '2016-08-25T18:22:38.779Z'
-title: ''
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-25T19:13:38.042Z'
 sourcePath: _posts/2016-08-25-something.md
+author: []
+via: {}
+dateModified: '2016-08-25T19:13:37.529Z'
+title: ''
+publisher: {}
+description: Insert quote here
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-something
+> Insert quote here
