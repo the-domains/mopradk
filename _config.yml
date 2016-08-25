@@ -1,18 +1,18 @@
-typography_spectrum: 0.03819119301624596
+layout_spectrum: 0.15623083640821278
+typography_spectrum: 0.847526885336265
+color:
+  brandStrength: 0.8091226618271321
+  lightness: 0.5324107713531703
+  saturation: 0.5689186716917902
+  rhythmicContrast: 0.5701794498600066
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
 content_rating:
   adult: false
-color:
-  brandStrength: 0.5582189951092005
-  lightness: 0.5779146307613701
-  saturation: 0.8956997087225318
-  rhythmicContrast: 0.4662378223147243
-  brandColors:
-    - '#2C2E2D'
-    - '#E5EDFA'
-    - '#4B5161'
-    - '#B3C8E3'
-    - '#7786A4'
-layout_spectrum: 0.7926268565934151
 author:
   name: Morten
   email: mortenprads@gmail.com
